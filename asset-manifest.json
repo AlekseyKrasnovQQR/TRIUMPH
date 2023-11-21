@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AlekseyKrasnovQQR/TRIUMPH/static/css/main.5678d5cb.css",
-    "main.js": "/AlekseyKrasnovQQR/TRIUMPH/static/js/main.3929785c.js",
+    "main.js": "/AlekseyKrasnovQQR/TRIUMPH/static/js/main.6e8c0715.js",
     "static/media/bg-.png": "/AlekseyKrasnovQQR/TRIUMPH/static/media/bg-.530c465e62659a5a30c9.png",
     "static/media/bg_header-img.png": "/AlekseyKrasnovQQR/TRIUMPH/static/media/bg_header-img.b9a4327e0206ae312e1a.png",
     "static/media/compan_img.png": "/AlekseyKrasnovQQR/TRIUMPH/static/media/compan_img.0a7d9a9cd225faba5254.png",
@@ -35,10 +35,10 @@
     "static/media/corner-left.png": "/AlekseyKrasnovQQR/TRIUMPH/static/media/corner-left.9376b2c284e2fb7bc75d.png",
     "index.html": "/AlekseyKrasnovQQR/TRIUMPH/index.html",
     "main.5678d5cb.css.map": "/AlekseyKrasnovQQR/TRIUMPH/static/css/main.5678d5cb.css.map",
-    "main.3929785c.js.map": "/AlekseyKrasnovQQR/TRIUMPH/static/js/main.3929785c.js.map"
+    "main.6e8c0715.js.map": "/AlekseyKrasnovQQR/TRIUMPH/static/js/main.6e8c0715.js.map"
   },
   "entrypoints": [
     "static/css/main.5678d5cb.css",
-    "static/js/main.3929785c.js"
+    "static/js/main.6e8c0715.js"
   ]
 }
