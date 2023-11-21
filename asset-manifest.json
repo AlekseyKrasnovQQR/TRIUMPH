@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/TRIUMPH/static/css/main.7120ed1f.css",
-    "main.js": "/TRIUMPH/static/js/main.9ecdb912.js",
+    "main.js": "/TRIUMPH/static/js/main.790a0309.js",
     "static/media/bg-.png": "/TRIUMPH/static/media/bg-.530c465e62659a5a30c9.png",
     "static/media/bg_header-img.png": "/TRIUMPH/static/media/bg_header-img.b9a4327e0206ae312e1a.png",
     "static/media/compan_img.png": "/TRIUMPH/static/media/compan_img.0a7d9a9cd225faba5254.png",
@@ -35,10 +35,10 @@
     "static/media/corner-left.png": "/TRIUMPH/static/media/corner-left.9376b2c284e2fb7bc75d.png",
     "index.html": "/TRIUMPH/index.html",
     "main.7120ed1f.css.map": "/TRIUMPH/static/css/main.7120ed1f.css.map",
-    "main.9ecdb912.js.map": "/TRIUMPH/static/js/main.9ecdb912.js.map"
+    "main.790a0309.js.map": "/TRIUMPH/static/js/main.790a0309.js.map"
   },
   "entrypoints": [
     "static/css/main.7120ed1f.css",
-    "static/js/main.9ecdb912.js"
+    "static/js/main.790a0309.js"
   ]
 }
